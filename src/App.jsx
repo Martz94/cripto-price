@@ -79,10 +79,6 @@ function App() {
       src={ImagenCoin3}
       alt='imagenes cripto'
       ></Imagen>
-      <Imagen 
-      src={ImagenCoin2}
-      alt='imagenes cripto'
-      ></Imagen>
       </div>
       
       <div>
